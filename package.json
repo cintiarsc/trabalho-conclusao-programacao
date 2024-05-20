@@ -1,0 +1,14 @@
+{
+  "name": "trabalho-conclusao-programacao",
+  "version": "1.0.0",
+  "description": "Trabalho de Conclusão da disciplina de Programação para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Costa, Cíntia",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
